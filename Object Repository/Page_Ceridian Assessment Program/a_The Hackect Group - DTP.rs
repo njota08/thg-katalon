@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Hackect Group - DTP</name>
+   <tag></tag>
+   <elementGuidId>8f4fd4cc-1397-498b-b494-9c4f7583e849</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'The Hackect Group - DTP')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#35e645ea-6047-4a6e-91d5-f06e43e97ef6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f12dec8a-60ff-43da-b512-33aaac3b82a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>35e645ea-6047-4a6e-91d5-f06e43e97ef6</value>
+      <webElementGuid>5d17f12a-d393-4222-9fb0-16235d6d5afb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript://</value>
+      <webElementGuid>8f1f3b71-651d-4384-80bf-af28f3cb994f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Hackect Group - DTP</value>
+      <webElementGuid>80636d15-4e9e-41f6-abba-46aa1ad5cd6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;35e645ea-6047-4a6e-91d5-f06e43e97ef6&quot;)</value>
+      <webElementGuid>519a69cd-7530-41ad-a7e8-5ce885402edf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='35e645ea-6047-4a6e-91d5-f06e43e97ef6']</value>
+      <webElementGuid>60241f0f-28a5-4179-9a65-3b57a72313a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar']/ul[2]/li/ul/li[7]/a</value>
+      <webElementGuid>031a49c6-ee4c-485b-a08f-a39f659a645d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Hackect Group - DTP')]</value>
+      <webElementGuid>eb866243-35c2-455a-b502-263d38f661f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TCS'])[1]/following::a[1]</value>
+      <webElementGuid>94ecfded-9572-4a6a-9775-6cc9ae1f9fb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oracle'])[1]/following::a[2]</value>
+      <webElementGuid>3315c0f2-f22d-4ad5-be3b-706bcce15fe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ericdicianno@gmail.com'])[1]/preceding::a[1]</value>
+      <webElementGuid>c63fb9bf-272e-4afa-a426-218ea99aad25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/preceding::a[1]</value>
+      <webElementGuid>42b1d7e9-9757-4a3b-8967-89e6444bd9f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Hackect Group - DTP']/parent::*</value>
+      <webElementGuid>b695ba3e-c78a-4bc4-9d5d-6022964fb779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript://')])[8]</value>
+      <webElementGuid>61041974-4147-4e2b-bafb-b25e6691b62f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a</value>
+      <webElementGuid>a8514a04-85c6-4db0-8512-0595a49258c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = '35e645ea-6047-4a6e-91d5-f06e43e97ef6' and @href = 'javascript://' and (text() = 'The Hackect Group - DTP' or . = 'The Hackect Group - DTP')]</value>
+      <webElementGuid>63f72391-d71f-4dac-89f4-ca341aa34379</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

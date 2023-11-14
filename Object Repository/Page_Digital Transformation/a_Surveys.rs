@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Surveys</name>
+   <tag></tag>
+   <elementGuidId>ae72f659-4819-44f1-8e70-1c32bbd59635</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.dropdown-menu.custom-dropdown-menu.no-padding > li:nth-of-type(4) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Surveys')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>09cf0e36-effc-41c8-8623-3ce9aa615fae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/admin/surveys</value>
+      <webElementGuid>d494c9f3-4f28-4c2b-915f-acc5915aab32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Surveys</value>
+      <webElementGuid>c7f9e1fa-e249-4195-b9d8-11a361127733</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;admin-documents&quot;]/nav[@class=&quot;navbar navbar-default no-radius&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;navbar-collapse collapse no-lateral-padding lateral-border&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown active open&quot;]/ul[@class=&quot;dropdown-menu custom-dropdown-menu no-padding&quot;]/li[4]/a[1]</value>
+      <webElementGuid>9ffd6530-ddf0-406f-b336-8320089aa29f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Surveys')]</value>
+      <webElementGuid>d0527a13-8a0c-4eb8-b249-9e6105163e98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[1]/following::a[1]</value>
+      <webElementGuid>e4db3d60-677e-405d-898f-69286b977c2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Performance Metrics'])[1]/following::a[2]</value>
+      <webElementGuid>b8055086-8e20-4738-b755-2ea9fd5b1922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Process Flow Documents'])[1]/preceding::a[1]</value>
+      <webElementGuid>b4530f1e-f365-48b0-a001-289310298bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promoted Content'])[1]/preceding::a[2]</value>
+      <webElementGuid>490e09ac-2e7c-48e1-865d-6fee8efeac75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Surveys']/parent::*</value>
+      <webElementGuid>146a6df4-d7d6-4503-8627-b30db0f2939f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/admin/surveys')]</value>
+      <webElementGuid>a1f24f5f-d6eb-45f0-b4ce-fa6487ddfe25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[4]/a</value>
+      <webElementGuid>3c693149-ed8e-4f1e-89d8-ed7cbda710af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/admin/surveys' and (text() = 'Surveys' or . = 'Surveys')]</value>
+      <webElementGuid>6e2364bf-911e-4433-bebf-954c0091125e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

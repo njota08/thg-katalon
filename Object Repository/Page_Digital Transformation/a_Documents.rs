@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Documents</name>
+   <tag></tag>
+   <elementGuidId>91f5dbff-efae-400d-9a4e-d0cf213b8017</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.dropdown-menu.custom-dropdown-menu.no-padding > li:nth-of-type(3) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Documents')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3bea30a3-e0b7-4f69-b4ec-82ea498919d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/admin/documents</value>
+      <webElementGuid>bc37fe68-75c3-4413-96d1-bbeeecf22a94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Documents</value>
+      <webElementGuid>681570a2-a1f9-4852-82ac-c416402dee3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;admin-performance-metrics&quot;]/nav[@class=&quot;navbar navbar-default no-radius&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;navbar-collapse collapse no-lateral-padding lateral-border&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown active open&quot;]/ul[@class=&quot;dropdown-menu custom-dropdown-menu no-padding&quot;]/li[3]/a[1]</value>
+      <webElementGuid>0bb3de26-383d-4021-96c7-511ee46a36ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Documents')]</value>
+      <webElementGuid>311146c6-6fca-4d5c-bd73-d2ad3f0a26a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Performance Metrics'])[1]/following::a[1]</value>
+      <webElementGuid>16934275-2dfb-4d6d-a989-2272888e6bf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Best Practices'])[1]/following::a[2]</value>
+      <webElementGuid>8106ddab-55bd-4a9e-a1ed-aebbcfd1fd58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Surveys'])[1]/preceding::a[1]</value>
+      <webElementGuid>99379488-2f12-470d-8da0-927ded4252eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Process Flow Documents'])[1]/preceding::a[2]</value>
+      <webElementGuid>8534df15-af0e-49fe-a666-71771ef4ffc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Documents']/parent::*</value>
+      <webElementGuid>185a83cf-ab11-4352-9765-dbc51ffd1d46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/admin/documents')]</value>
+      <webElementGuid>aad98cce-c433-4300-8f73-33b8492cc08d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[3]/a</value>
+      <webElementGuid>0bba98ae-1cfc-47eb-b005-5bce9de8afa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/admin/documents' and (text() = 'Documents' or . = 'Documents')]</value>
+      <webElementGuid>e1d76d5f-f7fb-4003-bed9-edd31f5d10f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

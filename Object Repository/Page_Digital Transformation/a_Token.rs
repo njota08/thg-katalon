@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Token</name>
+   <tag></tag>
+   <elementGuidId>8e8ae3e1-4cf3-4871-a416-bdc2426d0bab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.dropdown.active.open > ul.dropdown-menu.custom-dropdown-menu.no-padding > li:nth-of-type(3) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Token')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6e8feca0-fd59-4ae4-8b1a-85e0b782676e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/admin/jasper/token</value>
+      <webElementGuid>cd8148bd-535a-487c-8eaa-174481d9c1ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Token</value>
+      <webElementGuid>5a924c27-fd49-4ff0-ad73-41053a3954ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;admin-banner-messages&quot;]/nav[@class=&quot;navbar navbar-default no-radius&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;navbar-collapse collapse no-lateral-padding lateral-border&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown active open&quot;]/ul[@class=&quot;dropdown-menu custom-dropdown-menu no-padding&quot;]/li[3]/a[1]</value>
+      <webElementGuid>9a9378e1-6c75-483c-adf1-caab7392b5ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Token')]</value>
+      <webElementGuid>0c1b304e-7025-48ea-9bc3-a65a2ee991c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Banner Messages'])[1]/following::a[1]</value>
+      <webElementGuid>8e8805e0-f9c3-4b1a-808d-68a90b74fcda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master Client'])[1]/following::a[2]</value>
+      <webElementGuid>4292cb0c-e50e-47dd-84b6-4e31b9c4db54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application Data'])[1]/preceding::a[1]</value>
+      <webElementGuid>3ab9794c-0169-4c56-8da6-6f6fe19f331b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Software Versions'])[1]/preceding::a[2]</value>
+      <webElementGuid>347ea830-9e51-4585-90cc-f99521200f20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Token']/parent::*</value>
+      <webElementGuid>729f3ba1-7d66-406e-b002-74cf3197c682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/admin/jasper/token')]</value>
+      <webElementGuid>4f31ee67-5519-4785-96ca-11024f53cd2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/ul/li[3]/a</value>
+      <webElementGuid>a6ebcfb2-31f6-42b3-bd21-3f9b9ba37f42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/admin/jasper/token' and (text() = 'Token' or . = 'Token')]</value>
+      <webElementGuid>cd0d6646-8b09-415b-a45b-1fbb2207cb5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

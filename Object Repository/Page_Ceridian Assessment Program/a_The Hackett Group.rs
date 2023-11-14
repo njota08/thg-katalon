@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Hackett Group</name>
+   <tag></tag>
+   <elementGuidId>96b5aab4-a35b-4b42-ae83-52127a208190</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#7b450b58-d290-4c4b-ad50-f845d2889b22</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'The Hackett Group')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = '7b450b58-d290-4c4b-ad50-f845d2889b22' and @href = 'javascript://' and (text() = 'The Hackett Group' or . = 'The Hackett Group')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>740f04b2-5810-4b86-b10f-0a96f7e765e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>7b450b58-d290-4c4b-ad50-f845d2889b22</value>
+      <webElementGuid>eef156e8-91f4-4b87-8702-e0be06c9ff36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript://</value>
+      <webElementGuid>75fe0b4e-f8b8-4904-9a3c-8d8a8a7218bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Hackett Group</value>
+      <webElementGuid>d2609ea4-3d96-4d37-badc-4f1d68c2d980</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;7b450b58-d290-4c4b-ad50-f845d2889b22&quot;)</value>
+      <webElementGuid>1dfea837-f86a-45d8-b481-d197c03dd0e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='7b450b58-d290-4c4b-ad50-f845d2889b22']</value>
+      <webElementGuid>f6129b36-cdf6-43d6-9159-e4947339677f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar']/ul[2]/li/ul/li[7]/a</value>
+      <webElementGuid>ef3a2162-5ecc-498a-8ae0-769fc47e101d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Hackett Group')]</value>
+      <webElementGuid>ba8af4af-c621-4094-955c-cf9e7d9e5a9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TCS'])[1]/following::a[1]</value>
+      <webElementGuid>1f39d272-9423-4de1-bb6f-9c8e9876b063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oracle'])[1]/following::a[2]</value>
+      <webElementGuid>3745d73f-0436-4218-a259-f85089753b7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ericdicianno@gmail.com'])[1]/preceding::a[1]</value>
+      <webElementGuid>b2488fa3-3bf5-4061-ae8c-1f2204bcb50f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/preceding::a[1]</value>
+      <webElementGuid>4424fe1d-05b8-4e0f-98b9-bdfe7123706b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Hackett Group']/parent::*</value>
+      <webElementGuid>8bb2c629-4d0e-4333-958e-be78350bb0e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript://')])[8]</value>
+      <webElementGuid>a156406a-538a-40f4-9bbf-af6a5e638fd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a</value>
+      <webElementGuid>19ef07f3-bf6e-476f-8ab5-fbbadb418903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = '7b450b58-d290-4c4b-ad50-f845d2889b22' and @href = 'javascript://' and (text() = 'The Hackett Group' or . = 'The Hackett Group')]</value>
+      <webElementGuid>d43249fa-8ee7-4051-abd0-6e4af95e7b3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

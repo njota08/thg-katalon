@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DTP Admin E2E</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b755fdfe-8e7f-44ae-b05a-402e491ae366</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fe618d0b-8c8f-454c-a4a6-35c0153cd828</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>792f60d5-199c-4205-80d3-feaf06e94766</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9624c5d1-63eb-476a-ae35-76ef6150b2e4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ericdicianno@gmail.com'</defaultValue>
+      <description></description>
+      <id>fe618d0b-8c8f-454c-a4a6-35c0153cd828</id>
+      <masked>true</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>'javier.gonzalez@endava.com'</defaultValue>
+      <description></description>
+      <id>792f60d5-199c-4205-80d3-feaf06e94766</id>
+      <masked>false</masked>
+      <name>user2</name>
+   </variable>
+   <variable>
+      <defaultValue>'thehackettgrouptest@gmail.com'</defaultValue>
+      <description></description>
+      <id>9624c5d1-63eb-476a-ae35-76ef6150b2e4</id>
+      <masked>false</masked>
+      <name>user3</name>
+   </variable>
+</TestCaseEntity>

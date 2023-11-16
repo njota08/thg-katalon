@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
+WebUI.setViewPortSize(1903, 1034)
 
 WebUI.navigateToUrl('https://qa-dtp.poweredbyhackett.com/accounts/sign-in')
 

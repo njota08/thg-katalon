@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>312a698a-28c9-40d5-ba18-339bc58455a2</webElementGuid>
+      <webElementGuid>0fa88d61-d9d7-4b61-a678-cc695c0d462c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>5709bd6f-054e-4a57-a7d5-2b434e879256</webElementGuid>
+      <webElementGuid>526ac5cb-68bc-49cc-a4f5-578a46ebfbae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-row__input</value>
-      <webElementGuid>d099e93d-e0e7-4c1e-9b7d-aa7f6c0da16f</webElementGuid>
+      <webElementGuid>af061169-4504-47fb-93ac-4795b364ad10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;account-sign-in&quot;]/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;content&quot;]/aside[@class=&quot;sidebar&quot;]/div[@class=&quot;form-card account-form&quot;]/div[@class=&quot;form-row&quot;]/input[@class=&quot;form-row__input&quot;]</value>
-      <webElementGuid>c9aa8325-1b36-4811-8386-a93f87f7647f</webElementGuid>
+      <webElementGuid>5bdfcbd9-442d-400a-b7ed-04f2068999e8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='email']</value>
-      <webElementGuid>5cbde8c1-ec08-4bfc-8280-305c772c6fff</webElementGuid>
+      <webElementGuid>95de0b75-69bc-4dd7-97b1-e994dd493487</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>d721b70c-31e6-49e9-bcbf-8107e37cd91e</webElementGuid>
+      <webElementGuid>39b15d15-18b4-41ff-9763-f11fca111597</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'email']</value>
-      <webElementGuid>66001e82-e06b-4030-a151-c5832c215ded</webElementGuid>
+      <webElementGuid>83262e79-e5f6-40ce-a71d-cfe4e34a5dc7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

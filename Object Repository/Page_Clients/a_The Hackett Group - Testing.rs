@@ -6,12 +6,12 @@
    <elementGuidId>ae7f2f12-9c36-418b-8be7-1eae2bca51b0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'The Hackett Group - Testing')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>li:nth-of-type(20) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'The Hackett Group - Testing')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8f406b43-5256-4176-864f-73582fc96333</webElementGuid>
+      <webElementGuid>8aeb2222-a735-4acd-9669-b3f6f33bcdc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>client-id</name>
       <type>Main</type>
       <value>f6df30e5-f1d4-4c31-bfc6-145731fe4fc6</value>
-      <webElementGuid>db35f820-c3b8-4607-b3b4-535020c13fd8</webElementGuid>
+      <webElementGuid>deb43197-7a28-48c0-b5a8-5899662902ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>url-name</name>
       <type>Main</type>
       <value>epm-program</value>
-      <webElementGuid>e09537f6-9758-468f-a5fc-3b8c1165e4bf</webElementGuid>
+      <webElementGuid>f4d1d098-c946-4659-8cb7-3454e9182db7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript://</value>
-      <webElementGuid>87de94fa-9ece-4c57-af9a-71b7dd67c961</webElementGuid>
+      <webElementGuid>e5a8d454-3059-41be-973b-749dc3c823c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>The Hackett Group - Testing</value>
-      <webElementGuid>0c936d7a-7645-404f-8965-62d14da632ef</webElementGuid>
+      <webElementGuid>4318899f-8c8f-4812-bdf5-5071d9c34f12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;content signed-in&quot;]/div[@class=&quot;form-card account-form&quot;]/div[1]/div[@class=&quot;form-row custom-client-container&quot;]/ul[1]/li[20]/a[1]</value>
-      <webElementGuid>e3678a7f-1556-4232-bbf3-0b6863cd45ae</webElementGuid>
+      <webElementGuid>f9259d13-52f8-4784-8ded-d364ba82b6cd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'The Hackett Group - Testing')]</value>
-      <webElementGuid>c16feeeb-69d8-4d58-a993-e8904ae1f1af</webElementGuid>
+      <webElementGuid>f2fe74a4-5e1a-400a-8261-1becd2c694c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='The Hackett Group - Demo'])[1]/following::a[1]</value>
-      <webElementGuid>286d9bb0-0d6c-4e20-988a-bf03d287dfac</webElementGuid>
+      <webElementGuid>a5d05f63-8bc0-4e35-923a-a7b2f80f377c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='TelevisaUnivision'])[1]/following::a[2]</value>
-      <webElementGuid>611af225-423e-416d-a9d1-5fca8d8db9a2</webElementGuid>
+      <webElementGuid>9061e8f9-a5f1-48ea-9557-0d6728bbb865</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='The Mitre Corporation'])[1]/preceding::a[1]</value>
-      <webElementGuid>67a79339-0474-4196-b100-0205a39ba95b</webElementGuid>
+      <webElementGuid>d05dda0f-898d-43b9-92ae-596c83eb8968</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='The Nielsen Company, Inc.'])[1]/preceding::a[2]</value>
-      <webElementGuid>81a4df36-5e98-4315-8576-266ec05af718</webElementGuid>
+      <webElementGuid>c0e4e250-1a40-477c-af6a-9ef617c3d991</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='The Hackett Group - Testing']/parent::*</value>
-      <webElementGuid>2a649b07-6c93-4b71-a9ec-71d1c2d20ae7</webElementGuid>
+      <webElementGuid>5e936372-396c-413d-ae3e-1086a4adbedf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript://')])[22]</value>
-      <webElementGuid>dd73316b-79d5-4a85-9b5a-5e11ccf37d07</webElementGuid>
+      <webElementGuid>17585447-7a8f-4887-8717-1ddc71b50da2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[20]/a</value>
-      <webElementGuid>9f614a90-d410-47b7-a7af-e413a6dd6878</webElementGuid>
+      <webElementGuid>b390f7e8-211b-4c96-a9a5-804848cb3b53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'javascript://' and (text() = 'The Hackett Group - Testing' or . = 'The Hackett Group - Testing')]</value>
-      <webElementGuid>f698cd79-3a37-43ef-b4bd-a03ada4c3679</webElementGuid>
+      <webElementGuid>51fcac3b-08c9-4571-908e-8fdcf12eee13</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

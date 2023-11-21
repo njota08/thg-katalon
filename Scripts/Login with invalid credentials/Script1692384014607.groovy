@@ -33,8 +33,6 @@ WebUI.click(findTestObject('Object Repository/Page_Sign In/a_Sign In'))
 
 not_run: WebUI.takeFullPageScreenshotAsCheckpoint('Invalid credentials 2')
 
-WebUI.waitForAlert(0)
-
 WebUI.getAlertText(FailureHandling.STOP_ON_FAILURE)
 
 WebUI.closeBrowser()

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>6ee9119a-d5f4-4220-8f2f-6d573f1ac0f7</webElementGuid>
+      <webElementGuid>5962b360-f7a8-4f76-ba8a-aa67dea6bceb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/clients/select?program=Ceridian-Assessment-Program&amp;from=0&amp;letter=all</value>
-      <webElementGuid>f9594c07-e3a6-49ae-9b7e-ad6dbd411226</webElementGuid>
+      <webElementGuid>f05c399b-1769-4090-857e-b2d94e9cd742</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Ceridian Assessment Program</value>
-      <webElementGuid>ffac2952-9f2c-461c-9866-44746bf4f97a</webElementGuid>
+      <webElementGuid>f354b5d4-0cac-45a4-bdbe-74472860abd0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;index&quot;]/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;content signed-in&quot;]/div[@class=&quot;form-card account-form&quot;]/div[1]/div[@class=&quot;form-row custom-client-container&quot;]/ul[1]/li[1]/a[1]</value>
-      <webElementGuid>7812d5a6-e34a-443b-b763-a169dc099b8b</webElementGuid>
+      <webElementGuid>1ff6365b-170e-4731-95fd-c2d4bb755b8b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Ceridian Assessment Program')]</value>
-      <webElementGuid>2a48fc75-76d5-414e-9fe5-37356759250d</webElementGuid>
+      <webElementGuid>04165ed4-ed3b-48fc-8e36-c6afdd6cbd38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='You have access to multiple programs. Please choose one for this session.'])[1]/following::a[28]</value>
-      <webElementGuid>1fb24c8f-dbb0-4ecd-9eea-fcfd54985fe7</webElementGuid>
+      <webElementGuid>29bb0d96-135f-40ba-9f76-1543d8884b8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Out'])[1]/following::a[28]</value>
-      <webElementGuid>e2281d9e-dec2-410a-868a-ad991bb74f35</webElementGuid>
+      <webElementGuid>b100ff89-80ae-4b13-a48e-9809e714c869</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Digital Transformation'])[1]/preceding::a[1]</value>
-      <webElementGuid>1a90ed88-cfc4-41fa-8ffa-3d2c4fe86e8e</webElementGuid>
+      <webElementGuid>7f3ebfec-4bff-4784-af73-854eff01cccf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hackett Process Program'])[1]/preceding::a[2]</value>
-      <webElementGuid>bf87f62f-e75b-4dfc-8c50-32776d432d76</webElementGuid>
+      <webElementGuid>dc4c66c9-2f71-4269-94fc-cb3faed4c623</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Ceridian Assessment Program']/parent::*</value>
-      <webElementGuid>c02a0c38-b4bf-48db-beb7-ae369ca382f8</webElementGuid>
+      <webElementGuid>b6a6bc7e-9aa7-4790-893e-ce115ae7e8c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/clients/select?program=Ceridian-Assessment-Program&amp;from=0&amp;letter=all')]</value>
-      <webElementGuid>e5c119fb-b7ca-4962-b710-d6878a6db32e</webElementGuid>
+      <webElementGuid>b66cf8bb-6603-4918-af8d-52af8486add1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/ul/li/a</value>
-      <webElementGuid>74189d05-c5f5-486b-beb2-caa6b7df6397</webElementGuid>
+      <webElementGuid>1f14ccb9-1f0a-4ed4-a534-aa1595526dbb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/clients/select?program=Ceridian-Assessment-Program&amp;from=0&amp;letter=all' and (text() = 'Ceridian Assessment Program' or . = 'Ceridian Assessment Program')]</value>
-      <webElementGuid>36295c4d-5853-4d36-a5fd-9cd3b532a62b</webElementGuid>
+      <webElementGuid>dda0bae0-1725-4542-a9b2-b90c29a3eb19</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

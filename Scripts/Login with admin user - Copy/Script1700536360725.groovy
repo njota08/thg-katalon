@@ -23,7 +23,7 @@ WebUI.setViewPortSize(1903, 1034)
 
 WebUI.navigateToUrl('https://qa-dtp.poweredbyhackett.com/accounts/sign-in')
 
-WebUI.takeFullPageScreenshotAsCheckpoint('Landing Page')
+WebUI.takeFullPageScreenshotAsCheckpoint('Landing Page 2')
 
 WebUI.setText(findTestObject('Object Repository/Page_Sign In/input_E-mail Address_form-row__input'), user)
 
@@ -31,21 +31,21 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign In/input_Pass
 
 WebUI.click(findTestObject('Object Repository/Page_Sign In/a_Sign In'))
 
-WebUI.takeFullPageScreenshotAsCheckpoint('Program Selection Page')
+WebUI.takeFullPageScreenshotAsCheckpoint('Program Selection Page 2')
 
 WebUI.click(findTestObject('Object Repository/Page_Program Select/a_Digital Transformation'))
 
-WebUI.takeFullPageScreenshotAsCheckpoint('Clients Selection Page')
+WebUI.takeFullPageScreenshotAsCheckpoint('Clients Selection Page 2')
 
 WebUI.click(findTestObject('Object Repository/Page_Clients/a_The Hackett Group - Testing'))
 
-WebUI.takeElementScreenshotAsCheckpoint('TestImage', findTestObject('Object Repository/Page_Home/div_Take a Executive Insight SurveyFinance _98f771'))
+WebUI.takeElementScreenshotAsCheckpoint('TestImage2', findTestObject('Object Repository/Page_Home/div_Take a Executive Insight SurveyFinance _98f771'))
 
 WebUI.click(findTestObject('Page_Home/usernameDropdown'))
 
 WebUI.click(findTestObject('Object Repository/Page_Home/a_Sign Out'))
 
-WebUI.takeFullPageScreenshotAsCheckpoint('Landing Page after logout')
+WebUI.takeFullPageScreenshotAsCheckpoint('Landing Page after logout 2')
 
 WebUI.closeBrowser()
 

@@ -37,4 +37,23 @@
       <testCaseId>Test Cases/Login with invalid credentials</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>27c8715a-26fb-46c6-b44b-de45b654304d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login with admin user - Copy</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2433502f-a359-4d02-ab5c-2f142679884f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3e191198-afd9-4f07-bb3b-e2d3e1813699</variableId>
+      </variableLink>
+   </testCaseLink>
 </TestSuiteEntity>

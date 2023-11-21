@@ -23,7 +23,7 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://qa-dtp.poweredbyhackett.com/accounts/sign-in')
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign In/input_E-mail Address_form-row__input'), user1)
+WebUI.setText(findTestObject('Object Repository/Page_Sign In/input_E-mail Address_form-row__input'), user)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign In/input_Password_form-row__input'), '7q1aKE1wHhStYTYBr26JbA==')
 
@@ -35,7 +35,7 @@ WebUI.click(findTestObject('Object Repository/Page_Program Select/a_Digital Tran
 
 WebUI.takeFullPageScreenshotAsCheckpoint('Image2')
 
-WebUI.click(findTestObject('Object Repository/Page_Clients/a_American Express'))
+WebUI.click(findTestObject('Page_Clients/a_The Hackett Group - Testing'))
 
 WebUI.takeFullPageScreenshotAsCheckpoint('Image3')
 

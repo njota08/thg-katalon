@@ -17,5 +17,11 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Best Practice Page</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ff6f4acb-a1bb-46a0-88ef-6de495d283e8</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

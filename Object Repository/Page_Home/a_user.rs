@@ -32,7 +32,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>818e70a4-14da-4d6c-88fc-40cea8e67fa9</webElementGuid>
+      <webElementGuid>81be7140-8290-4f02-b939-678aa1092203</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,7 +40,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript://</value>
-      <webElementGuid>fa65d127-16d3-465b-aa60-36d8b9efc518</webElementGuid>
+      <webElementGuid>10f7bc81-8038-46c2-ad79-82ba775d18e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -48,7 +48,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-link</value>
-      <webElementGuid>09c0b6a9-71da-4150-aacf-68dbed104ce4</webElementGuid>
+      <webElementGuid>6bdad8e6-7bff-42f6-9411-9f34facb46b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -59,7 +59,7 @@
 						ericdicianno@gmail.com
 						
 					</value>
-      <webElementGuid>5f07ab96-7b41-42e6-91d5-c43e07303057</webElementGuid>
+      <webElementGuid>7701d0a3-605a-4483-90ad-e94005e6add7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -67,7 +67,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;home&quot;]/header[@class=&quot;header&quot;]/div[@class=&quot;content&quot;]/ul[@class=&quot;header__account dropit&quot;]/li[@class=&quot;inline-display dropit-trigger&quot;]/a[@class=&quot;dropdown-link&quot;]</value>
-      <webElementGuid>5b445e98-1699-4432-800b-1e85f8171a26</webElementGuid>
+      <webElementGuid>20c8e276-45b9-4cc9-ac8f-a4a316f98bab</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -75,15 +75,15 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'ericdicianno@gmail.com')]</value>
-      <webElementGuid>9bdec782-9043-435a-89f6-d3713fb1a766</webElementGuid>
+      <webElementGuid>a0a946ea-a0a5-4149-8e26-ed034697bd45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Hackett Group - Demo'])[1]/following::a[1]</value>
-      <webElementGuid>845e5d94-1a3e-4a0d-9b62-0b5c4dd06257</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ceridian Demo Co'])[1]/following::a[1]</value>
+      <webElementGuid>05cbc191-74d2-440c-b434-5b7bb121b266</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Digital Transformation Platform'])[1]/following::a[1]</value>
-      <webElementGuid>0f3641de-4f78-4fb7-9af7-3b393c11085b</webElementGuid>
+      <webElementGuid>f384198c-5838-474f-b998-aeebe28f108d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/preceding::a[1]</value>
-      <webElementGuid>1addfd85-1ca4-4859-b908-0556fcf67574</webElementGuid>
+      <webElementGuid>d5de71a3-e141-4a3a-b936-2522b74d5fbc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::a[2]</value>
-      <webElementGuid>e0df19b8-ebe0-4dfd-9fd9-0465dcafa55a</webElementGuid>
+      <webElementGuid>906343ce-64bb-4c29-b797-22107bd7a85e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,7 +115,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='ericdicianno@gmail.com']/parent::*</value>
-      <webElementGuid>7f0cb7bd-4e4f-4d6d-b4a2-82e21df71846</webElementGuid>
+      <webElementGuid>2b01450c-af38-4dd8-a4ef-1b30c3b13456</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,7 +123,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'javascript://')]</value>
-      <webElementGuid>975fc6d9-3712-4a47-83b8-fb212499ba0d</webElementGuid>
+      <webElementGuid>717f1f41-8a23-47b3-822f-a0e3905087d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -131,7 +131,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/a</value>
-      <webElementGuid>43cf317c-6485-46e7-8a2d-0e92cc117669</webElementGuid>
+      <webElementGuid>e2866860-8482-446c-ac4d-ffe1e4de5f10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -145,7 +145,15 @@
 						ericdicianno@gmail.com
 						
 					')]</value>
-      <webElementGuid>7efb9783-f015-4ad9-a274-69033c3fac47</webElementGuid>
+      <webElementGuid>5ffda342-425f-4481-912d-761891b29779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Hackett Group - Demo'])[1]/following::a[1]</value>
+      <webElementGuid>845e5d94-1a3e-4a0d-9b62-0b5c4dd06257</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

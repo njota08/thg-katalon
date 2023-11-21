@@ -6,12 +6,12 @@
    <elementGuidId>c235e937-aa2c-4dcf-bdab-c35a0cb2c90e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Accelerate Your Journey to Digital World Class®'])[1]/following::div[3]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.three-column-callout</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Accelerate Your Journey to Digital World Class®'])[1]/following::div[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b8abe9e3-0e15-481d-b84b-a26518df724c</webElementGuid>
+      <webElementGuid>8d40ee74-60a4-481c-8478-0a9f1e99d163</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>three-column-callout</value>
-      <webElementGuid>cbc46d95-a637-47c2-9389-0588e9a06fd9</webElementGuid>
+      <webElementGuid>9c5f5764-70d9-4f6a-99bd-ac1f6ebef5c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -414,7 +414,7 @@
 		
 	
 </value>
-      <webElementGuid>89ec84b5-8234-43a8-9a48-27e03fea1767</webElementGuid>
+      <webElementGuid>72f261c9-c7e4-4446-9a08-c65596defa57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -422,7 +422,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;home&quot;]/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;content&quot;]/section[@class=&quot;main-content&quot;]/div[@class=&quot;three-column-callout&quot;]</value>
-      <webElementGuid>8670a5a6-5761-498d-81a5-b3deeb8d341a</webElementGuid>
+      <webElementGuid>ca525424-4c3d-4d34-b544-8e2340552d2b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -430,7 +430,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Accelerate Your Journey to Digital World Class®'])[1]/following::div[3]</value>
-      <webElementGuid>f1814357-9b15-4f7c-a104-51ba4217cd49</webElementGuid>
+      <webElementGuid>c7b6f33d-2b29-4eac-af08-655ac92c3cd3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -438,7 +438,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Meet'])[1]/following::div[3]</value>
-      <webElementGuid>684881ed-c5fa-4431-abbb-5f36b5c98b12</webElementGuid>
+      <webElementGuid>122d4e67-25f7-4346-8785-7f3b6afcf49d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -446,7 +446,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/div[2]</value>
-      <webElementGuid>7a05ee3a-ae97-496a-9ac4-11c34c58fcd2</webElementGuid>
+      <webElementGuid>5c3572cd-a27c-4742-8a18-934bcc855709</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1206,6 +1206,6 @@
 		
 	
 ')]</value>
-      <webElementGuid>38ebd144-e18b-4e74-bed9-70e46a997ba3</webElementGuid>
+      <webElementGuid>ca60e195-2f20-4a77-a50f-f1c11eb1fdd1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
